@@ -233,3 +233,6 @@ venv/
 # IDE
 .vscode/
 .idea/
+
+# Generated test output
+examples/output.txt
