@@ -1,4 +1,3 @@
-HEAD
 greetings.
 
 learning how to use git and github (first time)
